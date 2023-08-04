@@ -1,0 +1,27 @@
+{
+	"$schema": "https://schemas.premid.app/metadata/1.7",
+	"author": {
+		"id": "323450838188294144",
+		"name": "kozennnn"
+	},
+	"service": "Hotstream",
+	"description": {
+		"en": "Watch movies and series for free without any ads."
+	},
+	"url": "hotstream.fr",
+	"version": "1.0.0",
+	"logo": "https://i.imgur.com/khjpK9k_d.png",
+	"thumbnail": "https://i.imgur.com/sZMhLCY.png",
+	"color": "#EA3661",
+	"category": "videos",
+	"tags": [
+		"stream",
+		"movies",
+		"tv",
+		"anime",
+		"disney",
+		"marvel",
+		"netflix",
+		"streaming"
+	]
+}
